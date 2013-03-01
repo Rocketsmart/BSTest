@@ -1,2 +1,1 @@
-BSTest
-======
+This is the readme
